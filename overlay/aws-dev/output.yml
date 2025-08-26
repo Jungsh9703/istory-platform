@@ -112,7 +112,7 @@ spec:
         envFrom:
         - configMapRef:
             name: istory-app-config
-        image: dangtong76/istory:latest
+        image: hyeonnn187/istory:latest
         name: istory
         ports:
         - containerPort: 3306

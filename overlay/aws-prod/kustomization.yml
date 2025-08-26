@@ -1,5 +1,6 @@
 resources:
   - ../../base/istory-app
+  - ../../base/istory-db
 
 namespace: istory-prod
 

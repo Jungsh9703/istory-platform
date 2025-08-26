@@ -7,4 +7,4 @@ metadata:
     istory.io/tier: backend-app
     istory.io/infra: aws
 spec:
-  replicas: 10
+  replicas: 3
